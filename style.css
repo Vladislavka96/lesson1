@@ -1,0 +1,28 @@
+.border1{
+    width: 300px;
+    margin: 20px;
+    padding: 25px 25px;
+    border: 5px rgb(81, 255, 0);
+    font-size: 15px;
+}
+.blue-text{
+    color: blue;
+}
+a[href="https://en.wikipedia.org/wiki/Sweden"]{
+    color: blueviolet;
+    font-size: 15px;
+}
+.pink-text{
+    color: pink;
+}
+a[href="en.wikipedia.org/wiki/Flora"]{
+    color: red;
+    font-size: 15px;
+}
+.orange-text{
+    color: orange;
+}
+a[href="https://en.wikipedia.org/wiki/Planet"]{
+    color: yellow;
+    font-size: 15px;
+}
